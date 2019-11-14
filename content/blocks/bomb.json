@@ -3,10 +3,10 @@
 	"name": "Bomb",
 	"description": "Explodes surroundings.",
 	"size": 2,
-	"hasPower": false,
-	"hasItems": false,
+	"hasPower": true,
+	"hasItems": true,
 	"itemDuration": 30,
-	"powerProduction": 0,
+	"powerProduction": 1,
 	"consumes": {
 		"items": {
 			"items": [
